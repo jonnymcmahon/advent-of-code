@@ -19,6 +19,10 @@ Here are my somewhat ropey attempts at Advent of Code 2023 (https://adventofcode
     - Time taken: ~1hr
     - Notes: first part pretty straightforward, second part threw my brain a bit of a curveball
 - Day 5:
-    - Difficult 6/5
-    - Time taken ~4hrs
+    - Difficulty: 6/5
+    - Time taken: ~4hrs
     - Notes: first part relatively easy once the reading was done with, second part took a lot of work... tried not to brute force it and be smart with using ranges - it would've been less computation for my brain to just brute force it :(
+- Day 6:
+    - Difficulty: 1/5
+    - Time taken: ~15m
+    - Notes: very straightforward, could've figured out an equation for the second half but was easier to brute force it lol
