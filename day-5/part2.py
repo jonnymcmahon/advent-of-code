@@ -1,5 +1,8 @@
 import re
 import pandas as pd
+import time
+
+start_time = time.time()
 
 path = 'input.txt'
 
@@ -191,4 +194,8 @@ for r in ranges:
 
         lowest = location
 
+end_time = time.time()
+
 print(lowest)
+
+print((end_time - start_time) * 1000, 'ms')
